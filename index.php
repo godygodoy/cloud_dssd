@@ -1,4 +1,4 @@
-<?php require_once 'google-api-php-client-2.0.3/vendor/autoload.php'; ?>
+<?php require_once 'google-api-php-client-2.0.3/src/Google/autoload.php'; ?>
 
 <html>
     <head>
